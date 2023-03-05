@@ -1,0 +1,9 @@
+@article{REPO-088,
+    author = "Zoidi, Olga and Tefas, Anastasios and Nikolaidis, Nikos and Pitas, Ioannis",
+    journal = "IEEE Transactions on Circuits and Systems for Video Technology",
+    number = "2",
+    pages = "342--355",
+    title = "{Positive and Negative Label Propagations}",
+    volume = "28",
+    year = "2016"
+}
